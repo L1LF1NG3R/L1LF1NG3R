@@ -4,8 +4,6 @@
 
 - <b>Machine Learning</b>
   - [Malware Classifier](https://github.com/L1LF1NG3R/malware-analysis)
-- <b>PowerShell</b>
-  - [User Access Management Tool]()
 - <b>Python</b>
   - [Interview Email Sorter](https://github.com/L1LF1NG3R/interview-email-sorter)
  
