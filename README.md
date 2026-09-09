@@ -1,4 +1,4 @@
-<h1>Francis Abecia<br/></h1><h1>Information Technology | Cybersecurity</h1>
+<h1>Francis Abecia<br/>
 
 <h2>👨‍💻 Artificial Intelligence & Cybersecurity Projects:</h2>
 
