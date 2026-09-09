@@ -8,8 +8,3 @@
   - [User Access Management Tool]()
 - <b>Python</b>
   - [Interview Email Sorter](https://github.com/L1LF1NG3R/interview-email-sorter)
-
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Francis Abecia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/francis-abecia-7652a2291/
