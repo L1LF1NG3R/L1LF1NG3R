@@ -12,7 +12,7 @@
 - <b>Offensive Security</b>
   - [Password Hash Cracking with John the Ripper](https://github.com/L1LF1NG3R/password-hash-cracking)
 - <b>Defensive Security</b>
-  - [Malicious Network Traffic Analysis with BRIM](https://github.com/L1LF1NG3R/password-hash-cracking)
+  - [Malicious Network Traffic Analysis with BRIM](https://github.com/L1LF1NG3R/malicious-traffic-analysis-BRIM)
 
 <h2>📜 Certifications</h2>
 - Microsoft Office Specialist (Word, Outlook, Excel)
