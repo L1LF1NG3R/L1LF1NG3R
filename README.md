@@ -11,6 +11,7 @@
 
 - <b>Offensive Security</b>
   - [Password Hash Cracking with John the Ripper](https://github.com/L1LF1NG3R/password-hash-cracking)
+  - [Heartbleed Vulnerability Exploitation](https://github.com/L1LF1NG3R/heartbleed-vulnerability-exploitation)
 - <b>Defensive Security</b>
   - [Malicious Network Traffic Analysis with BRIM](https://github.com/L1LF1NG3R/malicious-traffic-analysis-BRIM)
 
