@@ -10,6 +10,7 @@
 <h2>👾 Security Labs</h2>
 
 - <b>Offensive Security</b>
+  - [EternalBlue Exploit](https://github.com/L1LF1NG3R/eternalblue-vulnerability-explotation)
   - [Password Hash Cracking with John the Ripper](https://github.com/L1LF1NG3R/password-hash-cracking)
   - [Heartbleed Vulnerability Exploitation](https://github.com/L1LF1NG3R/heartbleed-vulnerability-exploitation)
 - <b>Defensive Security</b>
