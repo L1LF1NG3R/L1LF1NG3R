@@ -15,6 +15,6 @@
   - [Heartbleed Vulnerability Exploitation](https://github.com/L1LF1NG3R/heartbleed-vulnerability-exploitation)
 - <b>Defensive Security</b>
   - [Malicious Network Traffic Analysis with BRIM](https://github.com/L1LF1NG3R/malicious-traffic-analysis-BRIM)
-
+  - [Security Incident Simulation with Splunk](https://github.com/L1LF1NG3R/phishing-to-exfiltration-investigation-simulated-security-incident)
 <h2>📜 Certifications</h2>
 - Microsoft Office Specialist (Word, Outlook, Excel)
