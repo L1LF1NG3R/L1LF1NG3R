@@ -5,6 +5,7 @@
 - <b>Machine Learning</b>
   - [Malware Classifier](https://github.com/L1LF1NG3R/malware-analysis)
 - <b>Python</b>
+  - [Phishing Email Analyzer](https://github.com/L1LF1NG3R/phishing-email-analyzer)
   - [Interview Email Sorter](https://github.com/L1LF1NG3R/interview-email-sorter)
  
 <h2>👾 Security Labs</h2>
